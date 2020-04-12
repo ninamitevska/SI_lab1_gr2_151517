@@ -1,6 +1,8 @@
-index	ime	prezime	ocenka1	ocenka2	ocenka3	ocenka4	ocenka5	ocenka6	ocenka7
-111111	Nina	Mitevska	8	7	9	8	9	6	10
-222222	Ana	Georgieva	6	10	6	9	10	8	6
-333333	Sara	Ivanova	8	7	10	6	6	9	6
-444444	Marko	Markovski	10	10	10	10	10	10	9
-555555	Stefan	Stefanov	8	8	7	7	6	9	10
+"index	ime	prezime	ocenka1	ocenka2	ocenka3	ocenka4	ocenka5	ocenka6	ocenka7"
+"111111	Nina	Mitevska	8	7	9	8	9	6	10"
+"222222	Ana	Georgieva	6	10	6	9	10	8	6"
+"333333	Sara	Ivanova	8	8	10	6	7	9	6"
+"444444	Marko	Markovski	10	10	10	10	10	10	9"
+"555555	Stefan	Stefanov	8	8	7	7	6	9	10"
+666666 Random Random 6 7 9 8 6 7 10
+777777 Random2 Random2 6 7 8 9 10 8 7
